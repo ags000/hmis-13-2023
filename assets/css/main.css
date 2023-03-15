@@ -190,6 +190,22 @@ section {
   bottom: 15px;
 }
 
+
+
+
+.img-adrian{
+  border-radius: 50%;
+  border: 2px solid #fff;
+  margin-bottom: 2em;
+}
+
+
+.img-adrian:hover{
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+
 /*--------------------------------------------------------------
 # Preloader
 --------------------------------------------------------------*/
