@@ -1450,6 +1450,11 @@ section {
   margin: 0 2px;
 }
 
+.prueba{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /*--------------------------------------------------------------
 # Pricing Section
 --------------------------------------------------------------*/
