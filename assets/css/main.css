@@ -193,16 +193,23 @@ section {
 
 
 
-.img-adrian{
+.img-adrian {
   border-radius: 50%;
   border: 2px solid #fff;
   margin-bottom: 2em;
+  width: 15em;
+  height: 15em;
+  transition: 0.5s;
 }
 
 
-.img-adrian:hover{
-  opacity: 0.8;
+.img-adrian:hover {
+  transform: scale(1.15);
   cursor: pointer;
+}
+
+.link {
+  color: #0b463c;
 }
 
 
@@ -1450,11 +1457,12 @@ section {
   margin: 0 2px;
 }
 
-.prueba{
+.prueba {
   display: flex;
   justify-content: center;
   align-items: center;
 }
+
 /*--------------------------------------------------------------
 # Pricing Section
 --------------------------------------------------------------*/
