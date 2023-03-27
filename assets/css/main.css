@@ -100,6 +100,23 @@ section {
 }
 
 /*--------------------------------------------------------------
+# Recursos
+--------------------------------------------------------------*/
+.contenedor-recursos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.recurso {
+  padding: 5px;
+}
+
+
+
+/*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
 .breadcrumbs .page-header {
